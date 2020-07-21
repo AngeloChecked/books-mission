@@ -1,3 +1,6 @@
+| indietro |[indice](index.md) |[avanti]() |
+| --- | --- | --- |
+
 # Prefazione alla seconda edizione
 
 Tornando nel 1990, abbiamo lavorato con compagnie dai progetti che avevano problemi. Ognuno si e' ritrovato a chiedersi la stessa cosa: puo' essere che devi testarlo prima di consegnarlo; perche' il codice compila solo nella macchina di Mary? Perche' nessuno chiede agli utenti? 
